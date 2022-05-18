@@ -23,3 +23,6 @@
 <p>
   4- digite o comando yarn dev ou npm start e abra o navegador no seu localhost
 <p/>
+
+
+![localhost_3001_](https://user-images.githubusercontent.com/82322388/169088876-07fc2634-4fb4-4057-9a43-b459017065ef.png)
