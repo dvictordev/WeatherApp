@@ -33,6 +33,8 @@ export default {
 <template>
   <div class="main">
     <div class="container">
+
+        <h1>Weather</h1>
       <div class="searchBox">
         <input
           class="search"
@@ -77,8 +79,14 @@ export default {
   flex-direction: column;
 }
 
+.container h1{
+  margin: 0 auto;
+  padding-top: 80px;
+  font-size: 50px;
+}
+
 .searchBox .search {
-  margin-top: 200px;
+  margin-top: 100px;
   padding-left: 10px;
   width: 400px;
   height: 50px;
